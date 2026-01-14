@@ -328,4 +328,4 @@ This project is provided as-is for educational and personal use.
 
 **⚠️ Disclaimer**: This tool provides automated analysis based on available data. It should not be the sole basis for security decisions. Always practice safe browsing habits and verify suspicious websites through multiple sources.
 
-**Built with ❤️ for cybersecurity awareness**
+**Built AI-powered protection for safer browsing**
