@@ -110,7 +110,7 @@ function App() {
                     </svg>
                   </div>
                   <h3 className="text-xl font-bold mb-2">Privacy First</h3>
-                  <p className="text-gray-400 text-sm">No data storage, no tracking, runs locally - your searches are completely private</p>
+                  <p className="text-gray-400 text-sm">No data storage, No tracking, runs locally - your searches are completely private</p>
                 </div>
 
                 <div className="glass-card-hover p-6">
@@ -353,7 +353,7 @@ function App() {
         <footer className="mt-20 text-center text-gray-500 text-sm">
           <div className="glass-card p-6 max-w-3xl mx-auto">
             <p className="mb-2">
-              Built with ❤️ using FastAPI, React, and AI
+              Built with using FastAPI, React, and AI
             </p>
             <p className="text-xs">
               This tool provides automated analysis and should not be the sole basis for security decisions.
